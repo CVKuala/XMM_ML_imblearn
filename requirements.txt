@@ -1,0 +1,9 @@
+numpy
+pandas
+seaborn
+scikit-learn
+xgboost
+imblearn
+matplotlib
+torch
+torchbnn
